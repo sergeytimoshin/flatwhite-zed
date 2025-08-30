@@ -356,7 +356,8 @@
             "font_weight": 700
           },
           "type": {
-            "color": "#605A52"
+            "color": "#594F3B",
+            "background_color": "#F7E0C3"
           },
           "type.builtin": {
             "color": "#4F5A53",
